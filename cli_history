@@ -1,0 +1,12 @@
+  358  ls
+  359  mv about.html ../about.html
+  360  ls
+  361  cd ..
+  362  ls
+  363  pages
+  364  rm -rf pages
+  365  cd ..
+  366  rm -rf pages
+  367  ls
+  368  cd ..
+  369  rm -rf site
